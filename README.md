@@ -5,7 +5,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 
 ## 📑 Table of Contents
 
-- [Code Completion Tools (3)](#code-completion-tools)
+- [Code Completion Tools (4)](#code-completion-tools)
 
 
 ## Code Completion Tools
@@ -13,6 +13,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [OpenAI Codex](https://openai.com/research/openai-codex) - An AI-powered code completion tool developed by OpenAI, designed to help developers write high-quality code faster. ([Read more](/details/openai-codex.md)) `OpenAI` `Codex` `AI-powered code completion` `coding-assistants`
 - [Tabnine](https://www.codetriage.com/opensource/ai-tools-for-developers?utm_source=github&utm_medium=referral&utm_campaign=codein2023) - A powerful AI-powered code completion tool that integrates seamlessly with your favorite IDEs, providing intelligent suggestions to speed up your coding process. ([Read more](/details/tabnine-com.md)) `AI-powered code completion` `integrated development environment (IDE) integration` `code autocompletion` `machine learning-based code suggestions`
 - [GitHub Copilot](https://github.com/) - An AI-powered coding assistant that integrates seamlessly with popular IDEs, providing intelligent suggestions and autocompletions based on context. ([Read more](/details/github-com.md)) `AI-powered code completion` `integrated development environment (IDE) integration` `code suggestion and autocompletion`
+- [Windsurf](https://windsurf.com) - An agentic AI-powered IDE by Codeium, featuring deep codebase understanding, multi-step AI flows, and collaborative coding assistance. ([Read more](/details/windsurf-com.md)) `AI IDE` `agentic AI` `code generation` `codebase awareness`
 
 
 ## ™️ Legal
