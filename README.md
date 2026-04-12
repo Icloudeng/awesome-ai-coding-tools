@@ -72,6 +72,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 ## Prompt Engineering
 
 - [GitHub Models](https://github.com/features/models) - A tool for managing, testing, and comparing prompts and AI model outputs, streamlining prompt engineering workflows. ([Read more](/details/github-models.md)) `prompt-management` `model-testing` `ai-workflows`
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API to ship fixes directly from Claude Code. `SEO` `Google-Ads` `Claude-Code-plugin`
 
 
 ## ™️ Legal
