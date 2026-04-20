@@ -103,6 +103,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 ## AI IDE
 
 - [Windsurf](https://windsurf.com) - An agentic AI-powered IDE by Codeium, designed for deep codebase understanding and collaborative coding with AI flows. ([Read more](/details/windsurf.md)) `agentic AI` `code generation` `codebase awareness`
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs. ([Read more](/details/openmagic.md)) `browser` `editing` `diff`
 
 ## AI IDE Extensions
 
