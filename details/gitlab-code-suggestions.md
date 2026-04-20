@@ -1,22 +1,21 @@
-# GitLab Code Suggestions
+## Overview
 
-**Description:** AI-powered code suggestion feature integrated directly into GitLab's workflow for faster development.
-
-**Source:** [GitLab Docs](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html)
+Native AI code completion within GitLab's DevSecOps platform.
 
 ## Features
 
-- **Available Tiers:** Premium, Ultimate
-- **Add‑on Options:** GitLab Duo Core, GitLab Duo Pro, GitLab Duo Enterprise, GitLab Duo with Amazon Q
-- **Deployment Options:** GitLab.com, GitLab Self‑Managed, GitLab Dedicated
-- **Model Information:**
-  - Default large language model (LLM) as defined by GitLab Duo
-  - Amazon Q integration uses the Amazon Q Developer model
-- **Contextual Awareness:** Provides suggestions based on the current repository context
-- **Supported Extensions & Languages:** Works with a range of programming languages and IDE extensions (see GitLab Docs for full list)
-- **Repository X‑Ray:** Analyzes repository code to improve suggestion relevance
-- **Custom Review Instructions:** Allows tailoring of AI suggestions for code reviews
+- Inline suggestions in Web IDE and supported editors.
+- Repository X-ray for codebase context.
+- Customizable via review instructions.
+- Powered by GitLab Duo LLMs or Amazon Q.
+- Premium/Ultimate tiers with add-ons.
+
+## Use Cases
+
+- End-to-end workflows in GitLab-only stacks.
+- Secure enterprise coding without third-party AI.
+- Team code style enforcement.
 
 ## Pricing
 
-Pricing details are not provided in the available documentation.
+Premium: $29/user/month. Ultimate: $99/user/month. Duo add-ons: $19+ extra. Free tier limited.

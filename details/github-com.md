@@ -1,11 +1,21 @@
-# GitHub Copilot
+## Overview
 
-**An AI-powered coding assistant that integrates seamlessly with popular IDEs, providing intelligent suggestions and autocompletions based on context.**
+GitHub Copilot acts as an AI pair programmer, generating code suggestions directly in your editor.
 
 ## Features
-- **AI-powered code completion**: Provides intelligent suggestions and autocompletions based on the context of your code.
-- **Integration with popular IDEs**: Seamlessly works with widely used development environments.
-- **Context-aware recommendations**: Smartly understands your coding style and project structure to provide relevant suggestions.
+
+- Real-time code completions, function generation, and file creation.
+- Chat interface for explaining code, debugging, and generating tests.
+- Supports VS Code, JetBrains IDEs, Neovim, and web editors.
+- Context from open files, comments, and repo structure.
+- Multi-language support including Python, JS, Java, Go.
+
+## Use Cases
+
+- Accelerating boilerplate and routine coding tasks.
+- Learning new APIs through example suggestions.
+- Prototyping features quickly in sprints.
 
 ## Pricing
-GitHub Copilot is included in GitHub Advanced Security plans. For more details, please refer to the [GitHub pricing page](https://github.com/pricing).
+
+Individual: $10/user/month or $100/year. Business: $19/user/month. Enterprise: Custom. 30-day free trial; free for students/open-source maintainers.

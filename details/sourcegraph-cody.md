@@ -1,5 +1,20 @@
-# Sourcegraph Cody
+## Overview
 
-An AI coding assistant by Sourcegraph that leverages entire codebases for context-aware code generation, explanations, and refactoring.
+Code intelligence-powered IDE AI.
 
-[https://sourcegraph.com/cody](https://sourcegraph.com/cody)
+## Features
+
+- Repo-embedded chat/completions.
+- Custom commands.
+- Enterprise LLMs.
+- Batch edits.
+
+## Use Cases
+
+- Large codebase queries.
+- Team onboarding.
+- Refactor planning.
+
+## Pricing
+
+Free core; Enterprise $9/user/month+.

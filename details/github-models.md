@@ -1,38 +1,21 @@
-# GitHub Models
+## Overview
 
-**Description:**
-A tool for managing, testing, and comparing prompts and AI model outputs, streamlining prompt engineering workflows.
-
-**Source:** [GitHub Models](https://github.com/features/models)
-
----
+GitHub Models provides a unified playground to test and compare AI models from partners like Meta and Mistral.
 
 ## Features
-- Prompt management: organize and store prompts in a central location.
-- Prompt testing: run prompts against multiple AI models to see output variations.
-- Output comparison: side‑by‑side view of model responses for quick evaluation.
-- Version control integration: track changes to prompts using Git.
-- Collaboration: share prompt sets with team members and review changes.
-- Model registry linkage: connect to external AI model registries for easy switching.
-- Metrics & analytics: capture performance metrics for prompts across runs.
-- Export/Import: move prompt collections between projects or environments.
 
----
+- Instant access to hosted frontier models without API keys.
+- Side-by-side prompt testing and output comparison.
+- Integration with GitHub Copilot Chat for coding assistance.
+- Usage analytics and sharing capabilities.
+- SDK for programmatic access.
+
+## Use Cases
+
+- Model selection for Copilot Workspace or custom agents.
+- Rapid prototyping of AI features in repos.
+- Team collaboration on prompt engineering.
 
 ## Pricing
-No specific pricing details are provided on the page.
 
----
-
-## Category
-Prompt Engineering
-
----
-
-## Tags
-`prompt-management`, `model-testing`, `ai-workflows`
-
----
-
-## Brand
-GitHub ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+Free with GitHub account; usage limits apply, pro tiers for higher quotas.
