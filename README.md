@@ -12,7 +12,6 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [AI Autonomous Agents (10)](#ai-autonomous-agents)
 - [AI Code Refactoring Tools (1)](#ai-code-refactoring-tools)
 - [Ai Coding Assistants (5)](#ai-coding-assistants)
-- [AI Coding Assistants (1)](#ai-coding-assistants-1)
 - [AI Debugging & Error Fixing (1)](#ai-debugging--error-fixing)
 - [AI Documentation Generators (2)](#ai-documentation-generators)
 - [AI IDE (1)](#ai-ide)
@@ -20,9 +19,13 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [AI Platform Integration (1)](#ai-platform-integration)
 - [AI Testing & QA Tools (2)](#ai-testing--qa-tools)
 - [AI Workflow Automation (6)](#ai-workflow-automation)
+- [Code Generation (2)](#code-generation)
+- [Debugging & Testing (1)](#debugging--testing)
+- [IDE Extensions (1)](#ide-extensions)
 - [Low Code AI Builders (2)](#low-code-ai-builders)
 - [Low-Code AI Builders (2)](#low-code-ai-builders-1)
 - [Model Context Protocol (MCP) (3)](#model-context-protocol-mcp)
+- [UI Generation (1)](#ui-generation)
 
 
 ## AI Code Completion & Autocomplete
@@ -104,10 +107,6 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [Wizi](https://github.com/wizi-ai/code-search) - Code search tool across repositories using natural language queries. ([Read more](/details/wizi.md)) `Code Search` `Natural Language` `Open Source`
 - [ZZZ Code AI](https://zzzcode.ai/) - AI tool for code generation, explanation, and conversion. ([Read more](/details/zzz-code-ai.md)) `Code Generation` `Explanation` `Conversion`
 
-## AI Coding Assistants
-
-- [v0 by Vercel](https://v0.dev/) - AI-powered tool specialized in generating polished UI code rapidly from natural language descriptions. Displays a comprehensive breakdown of pages, features, and technology choices prior to code generation. Suited for fast frontend prototyping and development. ([Read more](/details/v0-by-vercel.md)) `Code Generation` `Ui Generation` `Frontend`
-
 ## AI Debugging & Error Fixing
 
 - [Blinky Debugging Agent](https://github.com/seahyinghang8/blinky) - Blinky is an open-source AI agent that autonomously identifies, reproduces, and fixes bugs in codebases via iterative testing and LLM reasoning. It integrates with pytest and Git for reproducible debugging sessions. By 2026, it's a staple for Python devs seeking Devin-like autonomy without vendor lock-in. ([Read more](/details/blinky-debugging-agent.md)) `Debugging` `Autonomous Agent` `Open Source` `Python`
@@ -149,6 +148,19 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [Pieces](https://pieces.app) - OS-level AI memory capturing code, docs, chats across apps for instant recall and LLM context. Forms long-term memories with MCP integration for agents like Copilot, Cursor. Private by design, enhances workflow without interruption. ([Read more](/details/pieces.md)) `Memory` `Context Capture` `Mcp`
 - [PoorCoder](https://github.com/vgrichina/poorcoder) - Collection of LLM-powered Unix CLI tools for code explanation, generation, and review, supporting Claude/Grok/OpenAI via simple pipes. Modular scripts for bash workflows without IDEs. Lightweight Aider alternative for terminal hackers. ([Read more](/details/poorcoder.md)) `CLI` `Scripts` `LLM Agnostic` `Open Source`
 
+## Code Generation
+
+- [GPT-Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - GPT-Engineer is an open-source command-line interface (CLI) tool that automates the generation of entire codebases from a concise natural language prompt. It aims to empower developers by significantly accelerating the initial development phase of software projects through an agentic approach. ([Read more](/details/gpt-engineer.md)) `Open Source` `Cli Tool` `Ai Agent` `Full Stack Generation` `Developer Tool`
+- [Smol-developer](https://github.com/smol-ai/developer) - Smol-developer is an open-source AI agent designed to act as a 'junior developer', capable of generating entire codebases from a concise natural language prompt. It facilitates rapid prototyping and project scaffolding, aiming to streamline the initial development phase. ([Read more](/details/smol-developer.md)) `Open Source` `Ai Agent` `Code Scaffolding` `Rapid Prototyping`
+
+## Debugging & Testing
+
+- [SWE-Agent](https://swe-agent.com/) - SWE-Agent is an open-source autonomous software engineering agent developed by researchers at Princeton and Stanford Universities. It is designed to automatically identify and fix bugs, and resolve issues within existing code repositories by operating through an agent-computer interface, enabling it to execute terminal commands, read files, and implement code modifications. ([Read more](/details/swe-agent.md)) `Open Source` `Ai Agent` `Bug Fixing` `Software Engineering` `Autonomous Agent`
+
+## IDE Extensions
+
+- [Perplexity AI VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Perplexity.perplexity-ai) - The official Visual Studio Code extension for Perplexity AI, integrating its powerful AI search and knowledge capabilities directly into the IDE. It provides context-aware code explanations, debugging assistance, and intelligent code generation to enhance developer productivity and understanding. ([Read more](/details/perplexity-ai-vs-code-extension.md)) `Vscode Extension` `Ai Assistant` `Code Search` `Developer Tool` `Code Explanation`
+
 ## Low Code AI Builders
 
 - [Kiro](https://kiro.dev/) - AI-powered IDE emphasizing spec-first development, auto-generating code, tests, and docs from natural language requirements with live previews. Supports full-stack apps with integrated deployment. Differs from v0.dev by focusing on structured specs over freeform prompts for reliable outputs. ([Read more](/details/kiro.md)) `Spec Driven` `Full Stack` `Auto Docs` `Browser Ide`
@@ -164,6 +176,10 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [MCP Registry](https://github.com/mcp) - Central GitHub-hosted registry for Model Context Protocol (MCP) tools, enabling seamless integration of external AI services into Copilot, Spark, and Codespaces workflows. Standardizes agent-tool interactions for extensible AI coding. Essential for devs building custom agents, unlike monolithic platforms. ([Read more](/details/mcp-registry.md)) `Mcp` `Registry` `Ai Extensions` `GitHub`
 - [Roundtable MCP Server](https://github.com/askbudi/roundtable) - Self-hosted MCP server proxying multiple LLMs (Claude, Codex) through unified interface for agent tools. Zero-config Docker deploy enables LLM switching without code changes. Key for MCP ecosystems vs. single-provider lock-in. ([Read more](/details/roundtable-mcp-server.md)) `Open Source` `Self Hosted` `Multi LLM` `Proxy`
 - [ToolHive](https://github.com/stacklok/toolhive) - Open-source marketplace and deployer for MCP servers/tools, enabling one-click setup of coding agents in local/cloud envs. Curates/discovers protocol-compliant extensions. Essential infrastructure for MCP adoption vs. manual GitHub forks. ([Read more](/details/toolhive.md)) `Open Source` `Mcp Marketplace` `One Click Deploy` `Self Hosted`
+
+## UI Generation
+
+- [v0 by Vercel](https://v0.dev/) - v0 by Vercel is a generative AI system that transforms text prompts or image inputs into production-ready React and Next.js user interface components. It rapidly generates modern UI code, styled with Tailwind CSS and utilizing Shadcn UI components, to significantly accelerate frontend development workflows. ([Read more](/details/v0-by-vercel.md)) `Ui Generation` `React` `Nextjs` `Ai Powered` `Frontend` `Vercel` `Design To Code`
 
 
 ## ™️ Legal
