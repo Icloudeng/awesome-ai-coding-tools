@@ -18,7 +18,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [AI IDE Extensions (7)](#ai-ide-extensions)
 - [AI Platform Integration (1)](#ai-platform-integration)
 - [AI Testing & QA Tools (2)](#ai-testing--qa-tools)
-- [AI Workflow Automation (6)](#ai-workflow-automation)
+- [AI Workflow Automation (7)](#ai-workflow-automation)
 - [Code Generation (2)](#code-generation)
 - [Debugging & Testing (1)](#debugging--testing)
 - [IDE Extensions (1)](#ide-extensions)
@@ -145,6 +145,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [Fynix](https://fynix.ai) - Fynix AI supports full SDLC from ideation to deployment with code gen, testing, and ops automation via unified chat interface. Integrates Git, Jira, AWS for enterprise flows. 2026 teams use it as Copilot+DevOps hub, more holistic than siloed tools like Replit. ([Read more](/details/fynix.md)) `full-SDLC` `Chat Agent` `Enterprise` `Jira`
 - [GitHub Actions](https://github.com/features/actions) - GitHub Actions orchestrates CI/CD with AI-enhanced steps for auto-testing, code gen, and deployment using LLMs in workflows. Marketplace agents handle PR triage and releases. In 2026, 90% open-source repos use it over Jenkins for native GitHub integration and cost-free minutes. ([Read more](/details/github-actions.md)) `CI/CD` `GitHub` `Agents` `Open Source`
 - [GitHub Spark](https://github.com/features/spark) - Infrastructure for developing and deploying AI applications using hosted LLMs and GitHub's ecosystem, including model experimentation, prompt chaining, and auto-generated scaffolds. Streamlines full-cycle dev from spec to production with native Codespaces/Actions integration. Suited for teams building agentic apps, bridging Replit AI and Cursor for GitHub-centric scalability. ([Read more](/details/github-spark.md)) `App Generation` `Model Hosting` `Cicd Integration` `Open Source`
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local CLI/TUI for AI coding agent session observability, parsing Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and similar logs into cost, token, latency, failure, and health reports. Useful for teams comparing agent runs and debugging slow tasks without uploading private logs. ([Read more](/details/agenttrace.md)) `CLI` `Observability` `Agent Logs` `Open Source`
 - [Pieces](https://pieces.app) - OS-level AI memory capturing code, docs, chats across apps for instant recall and LLM context. Forms long-term memories with MCP integration for agents like Copilot, Cursor. Private by design, enhances workflow without interruption. ([Read more](/details/pieces.md)) `Memory` `Context Capture` `Mcp`
 - [PoorCoder](https://github.com/vgrichina/poorcoder) - Collection of LLM-powered Unix CLI tools for code explanation, generation, and review, supporting Claude/Grok/OpenAI via simple pipes. Modular scripts for bash workflows without IDEs. Lightweight Aider alternative for terminal hackers. ([Read more](/details/poorcoder.md)) `CLI` `Scripts` `LLM Agnostic` `Open Source`
 
