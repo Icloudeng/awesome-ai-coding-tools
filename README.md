@@ -24,7 +24,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [IDE Extensions (1)](#ide-extensions)
 - [Low Code AI Builders (2)](#low-code-ai-builders)
 - [Low-Code AI Builders (2)](#low-code-ai-builders-1)
-- [Model Context Protocol (MCP) (3)](#model-context-protocol-mcp)
+- [Model Context Protocol (MCP) (4)](#model-context-protocol-mcp)
 - [UI Generation (1)](#ui-generation)
 
 
@@ -176,6 +176,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [MCP Registry](https://github.com/mcp) - Central GitHub-hosted registry for Model Context Protocol (MCP) tools, enabling seamless integration of external AI services into Copilot, Spark, and Codespaces workflows. Standardizes agent-tool interactions for extensible AI coding. Essential for devs building custom agents, unlike monolithic platforms. ([Read more](/details/mcp-registry.md)) `Mcp` `Registry` `Ai Extensions` `GitHub`
 - [Roundtable MCP Server](https://github.com/askbudi/roundtable) - Self-hosted MCP server proxying multiple LLMs (Claude, Codex) through unified interface for agent tools. Zero-config Docker deploy enables LLM switching without code changes. Key for MCP ecosystems vs. single-provider lock-in. ([Read more](/details/roundtable-mcp-server.md)) `Open Source` `Self Hosted` `Multi LLM` `Proxy`
 - [ToolHive](https://github.com/stacklok/toolhive) - Open-source marketplace and deployer for MCP servers/tools, enabling one-click setup of coding agents in local/cloud envs. Curates/discovers protocol-compliant extensions. Essential infrastructure for MCP adoption vs. manual GitHub forks. ([Read more](/details/toolhive.md)) `Open Source` `Mcp Marketplace` `One Click Deploy` `Self Hosted`
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers keyword research, meta tags, schema markup, ad audits, wasted-spend detection, and creative-fatigue analysis. `Open Source` `Claude Code` `Mcp` `Seo` `Google Ads` `Meta Ads`
 
 ## UI Generation
 
