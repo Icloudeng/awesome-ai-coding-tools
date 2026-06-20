@@ -18,7 +18,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [AI IDE Extensions (7)](#ai-ide-extensions)
 - [AI Platform Integration (1)](#ai-platform-integration)
 - [AI Testing & QA Tools (2)](#ai-testing--qa-tools)
-- [AI Workflow Automation (6)](#ai-workflow-automation)
+- [AI Workflow Automation (7)](#ai-workflow-automation)
 - [Code Generation (2)](#code-generation)
 - [Debugging & Testing (1)](#debugging--testing)
 - [IDE Extensions (1)](#ide-extensions)
@@ -141,6 +141,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 
 ## AI Workflow Automation
 
+- [ax](https://github.com/Necmttn/ax) - Local-first telemetry and recall graph for AI coding agents. Ingests Claude Code, Codex, Cursor, OpenCode, and Pi sessions into SurrealDB, then exposes sessions, tool calls, cost, dispatches, skills, and OTLP telemetry through a CLI, dashboard, and read-only MCP server. ([Read more](/details/ax.md)) `Telemetry` `Recall` `Mcp` `Local First`
 - [Bito AI](https://bito.ai) - Context layer for autonomous development with AI Architect building knowledge graphs from codebases and issues for grounded designs, code gen, and reviews. Integrates with Cursor, Claude Code, GitHub via MCP for feasibility analysis and impact assessment. Boosts SWE-bench scores significantly. ([Read more](/details/bito-ai.md)) `Knowledge Graph` `Ai Architect` `Mcp`
 - [Fynix](https://fynix.ai) - Fynix AI supports full SDLC from ideation to deployment with code gen, testing, and ops automation via unified chat interface. Integrates Git, Jira, AWS for enterprise flows. 2026 teams use it as Copilot+DevOps hub, more holistic than siloed tools like Replit. ([Read more](/details/fynix.md)) `full-SDLC` `Chat Agent` `Enterprise` `Jira`
 - [GitHub Actions](https://github.com/features/actions) - GitHub Actions orchestrates CI/CD with AI-enhanced steps for auto-testing, code gen, and deployment using LLMs in workflows. Marketplace agents handle PR triage and releases. In 2026, 90% open-source repos use it over Jenkins for native GitHub integration and cost-free minutes. ([Read more](/details/github-actions.md)) `CI/CD` `GitHub` `Agents` `Open Source`
