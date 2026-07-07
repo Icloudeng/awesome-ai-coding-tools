@@ -18,7 +18,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [AI IDE Extensions (7)](#ai-ide-extensions)
 - [AI Platform Integration (1)](#ai-platform-integration)
 - [AI Testing & QA Tools (2)](#ai-testing--qa-tools)
-- [AI Workflow Automation (6)](#ai-workflow-automation)
+- [AI Workflow Automation (7)](#ai-workflow-automation)
 - [Code Generation (2)](#code-generation)
 - [Debugging & Testing (1)](#debugging--testing)
 - [IDE Extensions (1)](#ide-extensions)
@@ -146,6 +146,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [GitHub Actions](https://github.com/features/actions) - GitHub Actions orchestrates CI/CD with AI-enhanced steps for auto-testing, code gen, and deployment using LLMs in workflows. Marketplace agents handle PR triage and releases. In 2026, 90% open-source repos use it over Jenkins for native GitHub integration and cost-free minutes. ([Read more](/details/github-actions.md)) `CI/CD` `GitHub` `Agents` `Open Source`
 - [GitHub Spark](https://github.com/features/spark) - Infrastructure for developing and deploying AI applications using hosted LLMs and GitHub's ecosystem, including model experimentation, prompt chaining, and auto-generated scaffolds. Streamlines full-cycle dev from spec to production with native Codespaces/Actions integration. Suited for teams building agentic apps, bridging Replit AI and Cursor for GitHub-centric scalability. ([Read more](/details/github-spark.md)) `App Generation` `Model Hosting` `Cicd Integration` `Open Source`
 - [Pieces](https://pieces.app) - OS-level AI memory capturing code, docs, chats across apps for instant recall and LLM context. Forms long-term memories with MCP integration for agents like Copilot, Cursor. Private by design, enhances workflow without interruption. ([Read more](/details/pieces.md)) `Memory` `Context Capture` `Mcp`
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle framework for AI coding agents with Rust CLI/TUI, SQLite/FTS recall, audit, forgetting, and source-linked evidence. ([Read more](/details/tree-ring-memory.md)) `Memory` `Local First` `CLI` `Open Source`
 - [PoorCoder](https://github.com/vgrichina/poorcoder) - Collection of LLM-powered Unix CLI tools for code explanation, generation, and review, supporting Claude/Grok/OpenAI via simple pipes. Modular scripts for bash workflows without IDEs. Lightweight Aider alternative for terminal hackers. ([Read more](/details/poorcoder.md)) `CLI` `Scripts` `LLM Agnostic` `Open Source`
 
 ## Code Generation
