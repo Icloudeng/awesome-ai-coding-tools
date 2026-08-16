@@ -17,7 +17,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 - [AI IDE (1)](#ai-ide)
 - [AI IDE Extensions (7)](#ai-ide-extensions)
 - [AI Platform Integration (1)](#ai-platform-integration)
-- [AI Testing & QA Tools (2)](#ai-testing--qa-tools)
+- [AI Testing & QA Tools (3)](#ai-testing--qa-tools)
 - [AI Workflow Automation (6)](#ai-workflow-automation)
 - [Code Generation (2)](#code-generation)
 - [Debugging & Testing (1)](#debugging--testing)
@@ -136,6 +136,7 @@ AI tools for developers that help discover, compare, and adopt AI-powered soluti
 
 ## AI Testing & QA Tools
 
+- [Agent QA](https://github.com/vostride/agent-qa) - The self-improving QA agent for software teams, with natural-language web/mobile tests, persistent test memory, and self-healing flows. ([Read more](/details/agent-qa.md)) `QA Automation` `Web Testing` `Mobile Testing` `AI Agent`
 - [CodiumAI](https://www.codium.ai/) - CodiumAI generates intelligent unit tests, edge cases, and mocks from code analysis using LLMs, covering 80%+ untested branches automatically for Python, JS, Java. Integrates VS Code/PyCharm with coverage reports. Teams in 2026 rely on it over Codium TestGenius for deeper semantic understanding and fewer false positives. ([Read more](/details/codiumai.md)) `Test Generation` `Unit Tests` `Multi Language` `VSCode`
 - [Test Gru](https://gru.ai/) - AI service auto-generating comprehensive unit tests for JS/TS/Python/Go/Java from codebases, with coverage reports and CI integration. Enterprise-focused for regression safety. Faster than Codium for full-suite gen. ([Read more](/details/test-gru.md)) `Unit Testing` `Multi Language` `Ci Integration` `Coverage`
 
